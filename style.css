@@ -128,7 +128,7 @@ font-family: 'Roboto Condensed', sans-serif; */
     display: flex;
     justify-content: space-between;
     padding: 2.3em 6em 2.3em 3em;
-    background-image: url("/images/list-bg.png");
+    background-image: url("./images/list-bg.png");
     width: 100%;
     aspect-ratio: 899/305;
     font-family: var(--ff-ingredients);
